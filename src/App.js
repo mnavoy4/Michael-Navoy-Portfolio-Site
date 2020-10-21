@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
 import IntroductionContainer from './Containers/IntroductionContainer';
-
+import AboutMe from './Components/AboutMe';
 
 function App() {
   return (
@@ -35,6 +35,7 @@ function App() {
         <main className='main'>
           <div className='content'>
             <IntroductionContainer/>
+            <AboutMe/>
           </div>
         </main>
       </div>

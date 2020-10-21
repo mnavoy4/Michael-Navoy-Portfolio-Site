@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export default function MyServices(){
   return (
-    <section>
+    <section className='my-services' id='services'>
       <h2 className='section-title section-title-services'>What I do</h2>
       <div className='services'>
         <div className='service'>

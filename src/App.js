@@ -1,13 +1,14 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
+import IntroductionContainer from './Containers/IntroductionContainer';
+
 
 function App() {
   return (
     <BrowserRouter>
       <div className="App">
         <header>
-          <h1>Michael Navoy</h1>
           <div className='logo'>
             <img src={require('./assets/images/headshot.png')} alt=''/>
           </div>
@@ -20,7 +21,10 @@ function App() {
                 <Link to='/' className='nav-link'>Home</Link>
               </li>
               <li className='nav-item'>
-                <Link to='/about' className='nav-link'>About Me</Link>
+                <Link to='/' className='nav-link'>About Me</Link>
+              </li>
+              <li className='nav-item'>
+                <Link to='/about' className='nav-link'>My Services</Link>
               </li>
               <li className='nav-item'>
                 <Link to='/work' className='nav-link'>My Work</Link>
@@ -30,7 +34,7 @@ function App() {
         </header>
         <main className='main'>
           <div className='content'>
-            
+            <IntroductionContainer/>
           </div>
         </main>
       </div>

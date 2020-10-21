@@ -7,7 +7,7 @@ export default function Introduction() {
         Hi, I am <strong>Michael Navoy</strong>
       </h1>
       <p className='section-subtitle'>full stack dev</p>
-      <img src={require('../assets/images/headshot.png')} alt='a picture of Michael Navoy smiling'/>
+      <img src={require('../assets/images/fishing.png')} alt='a picture of Michael Navoy smiling'/>
     </section>
   )
 };

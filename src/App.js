@@ -3,6 +3,8 @@ import './App.css';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
 import IntroductionContainer from './Containers/IntroductionContainer';
 import AboutMe from './Components/AboutMe';
+import MyWork from './Components/MyWork';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -36,6 +38,8 @@ function App() {
           <div className='content'>
             <IntroductionContainer/>
             <AboutMe/>
+            <MyWork/>
+            <Footer/>
           </div>
         </main>
       </div>

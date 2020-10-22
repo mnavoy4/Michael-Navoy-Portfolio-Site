@@ -5,7 +5,7 @@ export default function AboutMe(){
     <section className='about-me' id='about'>
       <h2 className='section-title section-title-about'>Who I am</h2>
       <p className='section-subtitle section-subtitle-about'>
-
+        Some Text
       </p>
       <div className='about-me-body'>
         <p>

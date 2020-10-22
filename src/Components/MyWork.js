@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export default function MyWork(){
   return (
     <section className='my-work' id='work'>
-      <h2 className='section-title'></h2>
+      <h2 className='section-title'>My Work</h2>
       <p className='section-subtitle'>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         Aliquam sollicitudin iaculis bibendum. Aliquam erat volutpat. Cras commodo tincidunt metus ac venenatis.

@@ -23,6 +23,9 @@
   --fs-h2: 2.25rem;
   --fs-h3: 1.25rem;
   --fs-body: 1rem;
+
+  --bs: 0.25em 0.25em 075em rgba(0,0,0,.25),
+        0.125em 0.125em 0.25em rgba(0,0,0,.15);
 }
 
 @media (min-width: 800px) {
@@ -95,6 +98,8 @@ h3 {
 .section-subtitle-about {
   background-color: var(--clr-accent);
   font-family: var(--ff-secondary);
+  padding: .25em 1em;
+  margin-bottom: 1em;
 }
 
 /* Header */
@@ -106,6 +111,14 @@ nav {
 /* Intro Section */
 .intro {
   position: relative;
+}
+
+.intro-image {
+  box-shadow: var(--bs);
+}
+
+.section-subtitle-intro {
+  display: inline-block;
 }
 
 @media (min-width: 600px) {
@@ -123,6 +136,8 @@ nav {
   .intro-image {
     grid-area: img;
     min-width: 250px;
+    position: relative;
+    z-index: 2;
   }
 
   .section-subtitle-intro {

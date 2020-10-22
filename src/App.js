@@ -5,6 +5,7 @@ import IntroductionContainer from './Containers/IntroductionContainer';
 import AboutMe from './Components/AboutMe';
 import MyWork from './Components/MyWork';
 import Footer from './Components/Footer';
+// import './App.css';
 
 function App() {
   return (
@@ -23,10 +24,10 @@ function App() {
                 <Link to='/' className='nav-link'>Home</Link>
               </li>
               <li className='nav-item'>
-                <Link to='/' className='nav-link'>About Me</Link>
+                <Link to='/about' className='nav-link'>About Me</Link>
               </li>
               <li className='nav-item'>
-                <Link to='/about' className='nav-link'>My Services</Link>
+                <Link to='/services' className='nav-link'>My Services</Link>
               </li>
               <li className='nav-item'>
                 <Link to='/work' className='nav-link'>My Work</Link>

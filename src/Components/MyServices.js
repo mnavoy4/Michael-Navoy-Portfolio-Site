@@ -10,24 +10,24 @@ export default function MyServices(){
           <h3>Full Stack Development</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin iaculis bibendum. Aliquam erat volutpat.
-            Cras commodo tincidunt metus ac venenatis. Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque. Donec tincidunt varius finibus. Nam eleifend accumsan aliquet. Vestibulum sollicitudin ex id accumsan gravida. Nulla facilisi.
-            Suspendisse a tincidunt dolor. Ut lobortis vel quam at convallis. Nam orci nibh, molestie id.
+            Cras commodo tincidunt metus ac venenatis. Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque.
+            Donec tincidunt varius finibus. Nulla facilisi.
           </p>
         </div>
         <div className='service'>
           <h3>Design</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin iaculis bibendum. Aliquam erat volutpat.
-            Cras commodo tincidunt metus ac venenatis. Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque. Donec tincidunt varius finibus. Nam eleifend accumsan aliquet. Vestibulum sollicitudin ex id accumsan gravida. Nulla facilisi.
-            Suspendisse a tincidunt dolor. Ut lobortis vel quam at convallis. Nam orci nibh, molestie id.
+            Cras commodo tincidunt metus ac venenatis. Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque.
+            Donec tincidunt varius finibus. Nulla facilisi.
           </p>
         </div>
         <div className='service'>
           <h3>Something else</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin iaculis bibendum. Aliquam erat volutpat.
-            Cras commodo tincidunt metus ac venenatis. Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque. Donec tincidunt varius finibus. Nam eleifend accumsan aliquet. Vestibulum sollicitudin ex id accumsan gravida. Nulla facilisi.
-            Suspendisse a tincidunt dolor. Ut lobortis vel quam at convallis. Nam orci nibh, molestie id.
+            Cras commodo tincidunt metus ac venenatis. Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque.
+            Donec tincidunt varius finibus. Nulla facilisi.
           </p>
         </div>
       </div>

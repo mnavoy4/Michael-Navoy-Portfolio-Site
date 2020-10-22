@@ -19,7 +19,7 @@ export default function AboutMe(){
           Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque.
         </p>
       </div>
-      <img src={require('../assets/images/mountains-w-logan.png')} alt='picture of Michael and a friend'/>
+      <img src={require('../assets/images/fishing.png')} alt='picture of Michael and a friend'/>
     </section>
   )
 }

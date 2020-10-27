@@ -16,8 +16,9 @@ export default function MyServices(){
         <div className='service'>
           <h3>Design</h3>
           <p>
-            While I tend to focus on the logical operations of app delevopment, the importance of refined + sophisticated design can not be understated.
-            
+            While performance and memory management of apps are hugely important in app development,
+            the importance of sophisticated, yet simple design can not be understated.
+            I gravitate toward minimalist design and color schemes.
           </p>
         </div>
         <div className='service'>

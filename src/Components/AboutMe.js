@@ -9,14 +9,16 @@ export default function AboutMe(){
       </p>
       <div className='about-me-body'>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin iaculis bibendum.
-          Aliquam erat volutpat. Cras commodo tincidunt metus ac venenatis.
-          Suspendisse finibus dapibus molestie.
+          I have a Bachelor’s Degree in Petroleum Engineering and I worked
+          as a petroleum engineer for a little over
+          2 years before making my career transition into software engineering. 
         </p>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin iaculis bibendum.
-          Aliquam erat volutpat. Cras commodo tincidunt metus ac venenatis.
-          Suspendisse finibus dapibus molestie.
+          I attended Flatiron School's Immersive Software Engineering program where I focused on Ruby on Rails and JavaScript.
+          I have experience with React, React Navtive, NodeJS, Redux, MongoDB, and SQLite3.
+        </p>
+        <p>
+          I love getting outdoors as much as possible by snowboarding/skiing in the winter and hiking with my dog Zella in the summer.
         </p>
       </div>
       <img

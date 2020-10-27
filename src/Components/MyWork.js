@@ -9,24 +9,21 @@ export default function MyWork(){
         A selection of my range of work
       </p>
       <div className='portfolio'>
-        <Link to='https://google.com' className='portfolio-item'>
+        <a href='https://google.com' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
-        </Link>
-        <Link to='https://google.com' className='portfolio-item'>
+        </a>
+        <a href='https://google.com' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
-        </Link>
-        <Link to='https://google.com' className='portfolio-item'>
+        </a>
+        <a href='https://google.com' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
-        </Link>
-        <Link to='https://google.com' className='portfolio-item'>
+        </a>
+        <a href='https://google.com' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
-        </Link>
-        <Link to='https://google.com' className='portfolio-item'>
+        </a>
+        <a href='https://google.com' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
-        </Link>
-        <Link to='https://google.com' className='portfolio-item'>
-          <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
-        </Link>
+        </a>
       </div>
     </section>
   )

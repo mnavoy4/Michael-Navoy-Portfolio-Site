@@ -7,14 +7,14 @@ export default function MyServices(){
       <h2 className='section-title section-title-services'>What I do</h2>
       <div className='services'>
         <div className='service'>
-          <h3>Full Stack Development</h3>
+          <h3>Front-end Development</h3>
           <p>
             Recently graduated from Flatiron School, where I focused on full-stack web and mobile app development.
             Focusing on elegant UX/UI and RESTful API's, I built a ridesharing app for trips to the mountains as my Capstone project at Flatiron. 
           </p>
         </div>
         <div className='service'>
-          <h3>Design</h3>
+          <h3>Back End Development</h3>
           <p>
             While performance and memory management of apps are hugely important in app development,
             the importance of sophisticated, yet simple design can not be understated.
@@ -22,11 +22,11 @@ export default function MyServices(){
           </p>
         </div>
         <div className='service'>
-          <h3>Something else</h3>
+          <h3>Design</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin iaculis bibendum. Aliquam erat volutpat.
             Cras commodo tincidunt metus ac venenatis. Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque.
-            Donec tincidunt varius finibus. Nulla facilisi.
+            Donec tincidunt varius finibus.
           </p>
         </div>
       </div>

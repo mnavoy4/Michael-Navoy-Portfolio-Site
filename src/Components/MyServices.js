@@ -16,17 +16,16 @@ export default function MyServices(){
         <div className='service'>
           <h3>Back End Development</h3>
           <p>
-            While performance and memory management of apps are hugely important in app development,
-            the importance of sophisticated, yet simple design can not be understated.
-            I gravitate toward minimalist design and color schemes.
+            Check node.js cover letter for exerpt here.
+            RESTful API's
           </p>
         </div>
         <div className='service'>
           <h3>Design</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin iaculis bibendum. Aliquam erat volutpat.
-            Cras commodo tincidunt metus ac venenatis. Suspendisse finibus dapibus molestie. Donec consectetur accumsan scelerisque.
-            Donec tincidunt varius finibus.
+            While performance and memory management of apps are hugely important in app development,
+            the necessity of sophisticated, yet simple design can not be understated.
+            I gravitate toward minimalist design and color schemes while maintaining brand consistency.
           </p>
         </div>
       </div>

@@ -9,8 +9,8 @@ export default function MyServices(){
         <div className='service'>
           <h3>Front-end Development</h3>
           <p>
-            Recently graduated from Flatiron School, where I focused on full-stack web and mobile app development.
-            Focusing on elegant UX/UI and RESTful API's, I built a ridesharing app for trips to the mountains as my Capstone project at Flatiron. 
+            Creating user friendly web and mobile apps by combing the art of design with the functionality and logic of programming.
+            So far, I have used Vanilla JS, React, and React Native to build responsive applications but am about to take the deep dive into Angular as I seek to expand my tech stack expertise.
           </p>
         </div>
         <div className='service'>

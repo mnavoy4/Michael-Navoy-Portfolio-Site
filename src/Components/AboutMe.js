@@ -15,7 +15,7 @@ export default function AboutMe(){
         </p>
         <p>
           I attended Flatiron School's Immersive Software Engineering program where I focused on Ruby on Rails and JavaScript.
-          I have experience with React, React Navtive, NodeJS, Redux, MongoDB, and SQLite3.
+          I have experience with React, React Navtive, NodeJS, Redux, MongoDB, SQLite3, and MySQL.
         </p>
         <p>
           I love getting outdoors as much as possible by snowboarding/skiing in the winter and hiking with my dog Zella in the summer.

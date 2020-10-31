@@ -9,16 +9,16 @@ export default function MyWork(){
         A selection of my range of work
       </p>
       <div className='portfolio'>
-        <a href='https://google.com' className='portfolio-item'>
+        <a href='https://github.com/mnavoy4/sendIt-9' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
         </a>
-        <a href='https://google.com' className='portfolio-item'>
+        <a href='https://github.com/mnavoy4/Powder-Exchange' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
         </a>
-        <a href='https://google.com' className='portfolio-item'>
+        <a href='https://github.com/mnavoy4/Interloculors' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
         </a>
-        <a href='https://google.com' className='portfolio-item'>
+        <a href='https://github.com/mnavoy4/GitFit-CLI-App' className='portfolio-item'>
           <img src={require('../assets/images/fishing.png')} alt='pic' className='portfolio-image'/>
         </a>
         <a href='https://google.com' className='portfolio-item'>

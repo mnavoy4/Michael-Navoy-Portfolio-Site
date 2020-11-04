@@ -17,7 +17,7 @@ export default function MyServices(){
           <h3>Back End Development</h3>
           <p>
             Check node.js cover letter for exerpt here.
-            RESTful API's
+            RESTful API development
           </p>
         </div>
         <div className='service'>

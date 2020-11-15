@@ -5,6 +5,7 @@ import IntroductionContainer from './Containers/IntroductionContainer';
 import AboutMe from './Components/AboutMe';
 import MyWork from './Components/MyWork';
 import Footer from './Components/Footer';
+import Particles from 'react-particles-js';
 
 function App(){
 

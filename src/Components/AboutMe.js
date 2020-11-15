@@ -1,4 +1,5 @@
 import React from 'react'
+import Particles from 'react-particles-js';
 
 export default function AboutMe(){
   return (
@@ -8,6 +9,7 @@ export default function AboutMe(){
         Full stack developer based in Denver
       </p>
       <div className='about-me-body'>
+        <Particles/>
         <p>
           I have a Bachelor’s Degree in Petroleum Engineering and I worked
           as a petroleum engineer for a little over
